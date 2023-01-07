@@ -13,6 +13,7 @@
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/python.svg" width="25"> &nbsp; 
 <img src="https://cdn.svgporn.com/logos/java.svg" width="25"> &nbsp;
+<img src="https://cdn.svgporn.com/logos/react.svg" width="25"> &nbsp;
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysuakbaba&" alt="aysuakbaba"/>
 
