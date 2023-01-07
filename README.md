@@ -1,6 +1,6 @@
  Hi👋, I'm Aysu Akbaba
  
-- 🌱 I’m currently learning JavaScript and Java
+- 🌱 I’m currently learning Java, JavaScript and React.
 - 🖥 Web Development and Graphic Design are things I'm interested in.
 - 📫 How to reach me aysuakbabaa@gmail.com
 
