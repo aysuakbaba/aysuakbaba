@@ -1,6 +1,5 @@
  Hi👋, I'm Aysu Akbaba
  
-- 🌱 I’m currently learning React Native.
 - 📫 How to reach me aysuakbabaa@gmail.com
 
 ### Connect with me:
@@ -10,9 +9,11 @@
 
 ### Technologies and tools :
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="25"> &nbsp;
-<img src="https://cdn.svgporn.com/logos/python.svg" width="25"> &nbsp; 
-<img src="https://cdn.svgporn.com/logos/java.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/react.svg" width="25"> &nbsp;
+<img src="https://cdn.svgporn.com/logos/nextjs.svg" width="25"> &nbsp;
+<img src="https://cdn.svgporn.com/logos/typescript.svg" width="25"> &nbsp;
+<img src="https://cdn.svgporn.com/logos/vue.svg" width="25"> &nbsp;
+
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysuakbaba&" alt="aysuakbaba"/>
 
